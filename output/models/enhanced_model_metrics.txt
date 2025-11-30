@@ -1,0 +1,24 @@
+ENHANCED MODEL PERFORMANCE METRICS
+========================================
+MAE: 2.64 seconds
+RMSE: 10.88 seconds
+R²: 0.9996
+MAPE: 1.12%
+
+IMPROVEMENT VS BASELINE:
+  MAE: +94.4%
+  RMSE: +90.9%
+  R2: +50.1%
+  MAPE: +96.7%
+
+TOP FEATURE IMPORTANCE:
+  current_speed_mps: 20229
+  segment_distance_meters: 19084
+  speed_ratio: 12267
+  route_progress_ratio: 6247
+  distance_x_rush: 5872
+  avg_speed_mps_segment_hour: 5604
+  std_speed_segment_hour: 4208
+  stop_sequence_number: 4021
+  speed_x_rush: 2936
+  minute_sin: 2041

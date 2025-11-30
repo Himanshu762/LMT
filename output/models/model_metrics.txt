@@ -1,0 +1,13 @@
+FINAL MODEL PERFORMANCE METRICS
+========================================
+MAE: 47.58 seconds
+RMSE: 119.75 seconds
+R²: 0.6659
+MAPE: 33.99%
+
+FEATURE IMPORTANCE:
+  avg_speed_mps_segment_hour: 95422.0
+  segment_distance_meters: 92692.0
+  stop_sequence_number: 70710.0
+  hour_sin: 32657.0
+  hour_cos: 31061.0

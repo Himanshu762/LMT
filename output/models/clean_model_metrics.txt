@@ -1,0 +1,22 @@
+CLEAN MODEL PERFORMANCE (NO LEAKAGE)
+========================================
+MAE: 46.88 seconds
+RMSE: 111.70 seconds
+R²: 0.7310
+MAPE: 36.62%
+
+COMPARISON TO ORIGINAL:
+Original MAE: 47.58s -> Clean MAE: 46.88s
+Original R²: 0.6659 -> Clean R²: 0.7310
+
+TOP FEATURES:
+  segment_distance_meters: 2231
+  route_progress_ratio: 1291
+  avg_speed_mps_segment_hour: 1103
+  stop_sequence_number: 927
+  std_speed_segment_hour: 917
+  route_std_time: 703
+  route_std_speed: 652
+  route_avg_time: 635
+  route_avg_speed: 585
+  minute_cos: 573
